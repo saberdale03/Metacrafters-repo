@@ -46,7 +46,4 @@ You can interact with the `MyToken` contract on the Ethereum blockchain by using
 
 Remember to check the balance of an address before performing a burn operation to ensure that the address has sufficient tokens to burn.
 
-## License
-This project is licensed under the MIT License. You can find the full license text in the source code file.
-
 **Note:** This is a basic example of a token contract for educational purposes. In a real-world scenario, additional features, security measures, and considerations should be implemented.
