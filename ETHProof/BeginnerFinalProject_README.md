@@ -46,4 +46,5 @@ You can interact with the `MyToken` contract on the Ethereum blockchain by using
 
 Remember to check the balance of an address before performing a burn operation to ensure that the address has sufficient tokens to burn.
 
+##
 **Note:** This is a basic example of a token contract for educational purposes. In a real-world scenario, additional features, security measures, and considerations should be implemented.
